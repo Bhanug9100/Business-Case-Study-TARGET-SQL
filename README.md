@@ -102,5 +102,10 @@ To get you started, here are some questions you might consider:
 - Find the month on month no. of orders placed using different payment types.
 - Find the no. of orders placed on the basis of the payment installments that have been paid.
 
+## Conclusion📌
 
+Now that you're armed with questions and a powerful dataset, it's time to embark on your Target data EDA journey. Feel free to fork this repository, clone it to your local machine, and start diving into the code and data.
 
+Remember, the more we learn from this data, the better we can help Target continue to Deliver the  millions of orders around the world! 🏌️‍♀️🛒
+
+Happy coding! 🚀👨‍💻🛒
