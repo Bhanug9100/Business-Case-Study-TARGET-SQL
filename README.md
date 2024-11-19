@@ -75,7 +75,7 @@ The column description for these csv files is given below.
 - **product_length_cm:** Length of the products ordered in centimeters
 - **product_height_cm:** Height of the products ordered in centimeters
 - **product_width_cm:** Width of the product ordered in centimeters
-##   ![WhyworryGIF](https://github.com/user-attachments/assets/bdd40b42-0613-46b7-88de-3120dee974ee)
+## #Dataset schema#
 
 <img width="503" alt="Screenshot 2024-11-19 115055" src="https://github.com/user-attachments/assets/c373f92e-1e5b-4cc9-8172-417c7b4ff394">
 
