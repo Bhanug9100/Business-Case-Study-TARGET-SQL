@@ -80,3 +80,27 @@ The column description for these csv files is given below.
 <img width="503" alt="Screenshot 2024-11-19 115055" src="https://github.com/user-attachments/assets/c373f92e-1e5b-4cc9-8172-417c7b4ff394">
 
 ## 🚀 Mission 🚀
+Task is to analyzing the given dataset to extract valuable insights and provide actionable recommendations
+To get you started, here are some questions you might consider:
+
+- Data type of all columns in the "customers" table.
+- Get the time range between which the orders were placed.
+- Count the Cities & States of customers who ordered during the given period.
+- Is there a growing trend in the no. of orders placed over the past years?
+- Can we see some kind of monthly seasonality in terms of the no. of orders being placed?
+  During what time of the day, do the Brazilian customers mostly place their orders? (Dawn, Morning, Afternoon or Night)
+- Get the month on month no. of orders placed in each state.
+- How are the customers distributed across all the states?
+- Get the % increase in the cost of orders from year 2017 to 2018 (include months between Jan to Aug only).
+- You can use the "payment_value" column in the payments table to get the cost of orders.
+- Calculate the Total & Average value of order price for each state.
+- Calculate the Total & Average value of order freight for each state.
+- Find the no. of days taken to deliver each order from the order’s purchase date as delivery time.
+- Find out the top 5 states with the highest & lowest average freight value.
+- Find out the top 5 states with the highest & lowest average delivery time.
+- Find out the top 5 states where the order delivery is really fast as compared to the estimated date of delivery.
+- Find the month on month no. of orders placed using different payment types.
+- Find the no. of orders placed on the basis of the payment installments that have been paid.
+
+
+
